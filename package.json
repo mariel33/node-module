@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo for node.js setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariel33/node-module.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Mariel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariel33/node-module/issues"
+  },
+  "homepage": "https://github.com/mariel33/node-module#readme",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "express": "^4.16.3"
+  }
+}
